@@ -1,5 +1,5 @@
 import React from 'react';
-import { Checkbox, Button, Toolbar, ToolbarItem } from "carbon-components-react";
+import { Checkbox, Button, Toolbar, ToolbarItem } from '@carbon/react';
 import { Add32, Label32, ArrowRight24, Restaurant16, ChartBar16 } from '@carbon/icons-react';
 
 class App extends React.Component {
